@@ -1,0 +1,42 @@
+{
+  "name": "resche",
+  "version": "0.0.1",
+  "description": "React Library to scheduling component rendering",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "scheduling",
+    "component",
+    "library",
+    "time",
+    "timer",
+    "resche"
+  ],
+  "peerDependencies": {
+    "react": ">= 16.3.0",
+    "react-dom": ">= 16.3.0"
+  },
+  "author": "Hermawan (Nino)",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/register": "^7.0.0",
+    "babel-eslint": "^10.0.1",
+    "babel-loader": "^8.0.5",
+    "clean-webpack-plugin": "^1.0.0",
+    "eslint": "^5.12.0",
+    "eslint-plugin-react": "^7.12.3",
+    "jest-cli": "^23.6.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-hot-loader": "^4.6.3",
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.2.0"
+  }
+}
